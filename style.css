@@ -1,0 +1,219 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: black;
+}
+
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    
+    
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Optional: aligns items vertically in the center */
+    padding: 10px; /* Optional: adds some padding around the header */
+}
+
+header img.full-image {
+    max-width: 100px; /* Optional: sets a maximum width for the image */
+    height: auto; /* Ensures the image maintains its aspect ratio */
+}
+
+header nav {
+    display: flex;
+    gap: 20px; /* Adds space between the navigation links */
+}
+
+a {
+    text-decoration: none;
+    color: white; /* Keeps the link color the same as the surrounding text */
+    padding: 5px 10px; /* Adds some padding around the links */
+    border-radius: 5px; /* Optional: adds rounded corners to the links */
+    transition: background-color 0.3s; /* Optional: smooth transition for background color changes */
+}
+
+ a:hover {
+    background-color: rgba(255, 255, 255, 0.4); /* Optional: changes background color on hover */
+}
+
+a{
+    color: white;
+    
+    
+}
+
+.ikonka{
+    width: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.Iphpro{
+    text-align: center;
+    
+    background-color: black;
+    color: white;
+
+}
+
+.protext{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+.foto{
+    height: 300px;
+    
+    
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.more{
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    
+    
+    
+
+
+}
+
+.buy{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.Ipad{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.fonip{
+    background-color: black;
+}
+
+.Ipadt{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.moreI{
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    color: white;
+    background-color: black;
+}
+
+.buyI{
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    color: white;
+    background-color: black;
+    
+}
+
+.fotoI{
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.IOS18{
+  color: white;
+  text-align: center;
+  
+  
+}
+
+.Iost{
+    color: grey;
+    text-align: center;
+
+}
+
+.Ex{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.fotoIo{
+    display: flex;
+    justify-content: space-around
+}
+
+.fonIo{
+    background-color: black;
+}
+
+.wat{
+    color: white;
+    text-align: center;
+}
+
+.watF{
+    display: flex;
+    justify-content: space-around;
+}
+
+.watc{
+    color: grey;
+    text-align: center;
+}
+
+.watch{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.visi{
+    color: white;
+    text-align: center;
+}
+
+.visiT{
+    color: grey;
+    text-align: center;
+}
+
+.visiex{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.fotw{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+}
+
+
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 10px;
+}
+
+
+
